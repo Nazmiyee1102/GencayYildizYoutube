@@ -53,6 +53,17 @@ namespace IsPrimitive
             //const double pi = 3.14;
             //Console.WriteLine(pi);
 
+            //deep copy
+            //int a = 5;
+            //int b = a;
+
+            //a = a * 5;
+            //Console.WriteLine(a);//25
+            //Console.WriteLine(b);//5 deep copy
+
+            //shallow copy
+
+
             Console.Read();
         }
     }
