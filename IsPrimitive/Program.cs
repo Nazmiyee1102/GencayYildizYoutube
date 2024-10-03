@@ -61,9 +61,21 @@ namespace IsPrimitive
             //Console.WriteLine(a);//25
             //Console.WriteLine(b);//5 deep copy
 
-            //shallow copy
+            //object
+            object ad = "Nazmiye";
 
+            //boxing
+           // int yas = 28;
+            object _yas = 28;//boxing
 
+            //unboxing
+            int yas = (int)_yas;//unboxing
+            Console.WriteLine( yas * 5);
+
+            var yas1 = 25;
+
+            dynamic a = 5;
+            
             Console.Read();
         }
     }
