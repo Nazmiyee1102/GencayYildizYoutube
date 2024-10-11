@@ -5,7 +5,9 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPrimitive", "IsPrimitive\IsPrimitive.csproj", "{7840D5D2-659E-401C-A679-17EAE219574F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurDonusumleri", "TurDonusumleri\TurDonusumleri.csproj", "{3031B503-3782-4DBE-AF9C-9267AC235BE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TurDonusumleri", "TurDonusumleri\TurDonusumleri.csproj", "{3031B503-3782-4DBE-AF9C-9267AC235BE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operatörler", "Operatörler\Operatörler.csproj", "{92597999-5243-4004-905E-10C0CDFD5C97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{3031B503-3782-4DBE-AF9C-9267AC235BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3031B503-3782-4DBE-AF9C-9267AC235BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3031B503-3782-4DBE-AF9C-9267AC235BE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92597999-5243-4004-905E-10C0CDFD5C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92597999-5243-4004-905E-10C0CDFD5C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92597999-5243-4004-905E-10C0CDFD5C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92597999-5243-4004-905E-10C0CDFD5C97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

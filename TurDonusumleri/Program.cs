@@ -95,8 +95,13 @@
 
 #region char-int tür dönüşümü - ascii
 
-char a = 'a';
-Console.WriteLine((int)a);
+//char a = 'a';
+//Console.WriteLine((int)a);
+
+int oascii = 111, Oascii = 79;
+
+Console.WriteLine(((char)oascii));
+Console.WriteLine(((char)Oascii));
 
 #endregion
 
