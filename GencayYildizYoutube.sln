@@ -7,7 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPrimitive", "IsPrimitive\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TurDonusumleri", "TurDonusumleri\TurDonusumleri.csproj", "{3031B503-3782-4DBE-AF9C-9267AC235BE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operatörler", "Operatörler\Operatörler.csproj", "{92597999-5243-4004-905E-10C0CDFD5C97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operatörler", "Operatörler\Operatörler.csproj", "{92597999-5243-4004-905E-10C0CDFD5C97}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{5DE7E7E4-043C-47DA-B1A7-21B69A70BC97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if", "if\if.csproj", "{592FD5D8-7C47-44C1-867C-52C329FDAA29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{92597999-5243-4004-905E-10C0CDFD5C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92597999-5243-4004-905E-10C0CDFD5C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92597999-5243-4004-905E-10C0CDFD5C97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DE7E7E4-043C-47DA-B1A7-21B69A70BC97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DE7E7E4-043C-47DA-B1A7-21B69A70BC97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DE7E7E4-043C-47DA-B1A7-21B69A70BC97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DE7E7E4-043C-47DA-B1A7-21B69A70BC97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{592FD5D8-7C47-44C1-867C-52C329FDAA29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592FD5D8-7C47-44C1-867C-52C329FDAA29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592FD5D8-7C47-44C1-867C-52C329FDAA29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592FD5D8-7C47-44C1-867C-52C329FDAA29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
