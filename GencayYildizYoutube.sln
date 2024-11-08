@@ -15,9 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "if", "if\if.csproj", "{592F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatternMatching", "PatternMatching\PatternMatching.csproj", "{7180F8AC-36D3-4241-8824-D071683C753C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HataKontrolMekanizmasi", "HataKontrolMekanizmasi\HataKontrolMekanizmasi.csproj", "{C2DCE279-E37B-40D6-800C-951CC67E0F38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HataKontrolMekanizmasi", "HataKontrolMekanizmasi\HataKontrolMekanizmasi.csproj", "{C2DCE279-E37B-40D6-800C-951CC67E0F38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{9C4281E7-3F41-4100-A1B6-B6FD82938BF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Donguler.csproj", "{9C4281E7-3F41-4100-A1B6-B6FD82938BF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keywords", "Keywords\Keywords.csproj", "{A022FFA7-8067-46DC-8CED-4F1BB489FC35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YardimciManevraKomutlari", "YardimciManevraKomutlari\YardimciManevraKomutlari.csproj", "{C7B0DC67-1A01-4855-B2B4-39056847575F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{9C4281E7-3F41-4100-A1B6-B6FD82938BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C4281E7-3F41-4100-A1B6-B6FD82938BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C4281E7-3F41-4100-A1B6-B6FD82938BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A022FFA7-8067-46DC-8CED-4F1BB489FC35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A022FFA7-8067-46DC-8CED-4F1BB489FC35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A022FFA7-8067-46DC-8CED-4F1BB489FC35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A022FFA7-8067-46DC-8CED-4F1BB489FC35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B0DC67-1A01-4855-B2B4-39056847575F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B0DC67-1A01-4855-B2B4-39056847575F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B0DC67-1A01-4855-B2B4-39056847575F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B0DC67-1A01-4855-B2B4-39056847575F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
