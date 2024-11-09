@@ -293,5 +293,32 @@
 
 #endregion
 
+#region döngülerde boş scope kullanmak istemediğimiz durumlarda ;(noktalı virgül) operatörüyle temiz kod yazımı
+
+while (true)
+{
+
+}
+
+while (true) ;//sonsuz döngü 
+
+for (;  ; )
+{
+    
+}
+
+for (; ; );//sonsuz döngü
+
+do
+{
+    
+}
+while (true);
+
+do;           //sonsuz
+while (true);//döngü
+
+#endregion
+
 #endregion
 

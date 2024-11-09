@@ -1,5 +1,6 @@
 ﻿
 
+
 #region if  
 
 //bool medeniHal = true;
@@ -7,6 +8,18 @@
 //{
 //    Console.WriteLine("Mutlu yıllar");
 //}
+
+#endregion
+
+#region if yapısında boş scope kullanmak istediğimiz durumlarda  ;(noktalı virgül) operatörü ile temiz kod yazımı
+
+if (true)
+{
+    
+}
+
+//scope suz if
+if (true) ;
 
 #endregion
 

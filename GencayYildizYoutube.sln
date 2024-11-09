@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HataKontrolMekanizmasi", "H
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Donguler.csproj", "{9C4281E7-3F41-4100-A1B6-B6FD82938BF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keywords", "Keywords\Keywords.csproj", "{A022FFA7-8067-46DC-8CED-4F1BB489FC35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Keywords", "Keywords\Keywords.csproj", "{A022FFA7-8067-46DC-8CED-4F1BB489FC35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YardimciManevraKomutlari", "YardimciManevraKomutlari\YardimciManevraKomutlari.csproj", "{C7B0DC67-1A01-4855-B2B4-39056847575F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YardimciManevraKomutlari", "YardimciManevraKomutlari\YardimciManevraKomutlari.csproj", "{C7B0DC67-1A01-4855-B2B4-39056847575F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler", "Diziler\Diziler.csproj", "{166A9767-921B-4402-971B-2A90A4BD439B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{C7B0DC67-1A01-4855-B2B4-39056847575F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7B0DC67-1A01-4855-B2B4-39056847575F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7B0DC67-1A01-4855-B2B4-39056847575F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{166A9767-921B-4402-971B-2A90A4BD439B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166A9767-921B-4402-971B-2A90A4BD439B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166A9767-921B-4402-971B-2A90A4BD439B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166A9767-921B-4402-971B-2A90A4BD439B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
