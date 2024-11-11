@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Keywords", "Keywords\Keywor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YardimciManevraKomutlari", "YardimciManevraKomutlari\YardimciManevraKomutlari.csproj", "{C7B0DC67-1A01-4855-B2B4-39056847575F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler", "Diziler\Diziler.csproj", "{166A9767-921B-4402-971B-2A90A4BD439B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diziler", "Diziler\Diziler.csproj", "{166A9767-921B-4402-971B-2A90A4BD439B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{3E7B4FDD-20F6-4599-95F4-7C859A417D76}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{166A9767-921B-4402-971B-2A90A4BD439B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{166A9767-921B-4402-971B-2A90A4BD439B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{166A9767-921B-4402-971B-2A90A4BD439B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E7B4FDD-20F6-4599-95F4-7C859A417D76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E7B4FDD-20F6-4599-95F4-7C859A417D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E7B4FDD-20F6-4599-95F4-7C859A417D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E7B4FDD-20F6-4599-95F4-7C859A417D76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
