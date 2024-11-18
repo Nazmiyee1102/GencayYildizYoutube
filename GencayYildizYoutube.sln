@@ -31,11 +31,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DizilerdeVeriselPerformans"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegularExpressions", "RegularExpressions\RegularExpressions.csproj", "{CBB4835C-5F6E-4D5D-8890-4F849B2864AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{0FB38FCD-D312-46F8-8942-DE4E2821E516}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{0FB38FCD-D312-46F8-8942-DE4E2821E516}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foreachİterasyonu", "Foreachİterasyonu\Foreachİterasyonu.csproj", "{E95E9BD6-01E9-4523-8B8F-F5311559E2FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Foreachİterasyonu", "Foreachİterasyonu\Foreachİterasyonu.csproj", "{E95E9BD6-01E9-4523-8B8F-F5311559E2FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HazirSiniflarFonksiyonlar", "HazirSiniflarFonksiyonlar\HazirSiniflarFonksiyonlar.csproj", "{D2BCD369-7FF7-4B30-B86D-785F78F77E3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HazirSiniflarFonksiyonlar", "HazirSiniflarFonksiyonlar\HazirSiniflarFonksiyonlar.csproj", "{D2BCD369-7FF7-4B30-B86D-785F78F77E3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{09561220-5A0E-40FB-A178-6C8665B1704F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ref_out", "ref_out\ref_out.csproj", "{9120BB8C-9F0C-4BEA-BF0E-4BB7F16F68A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +115,14 @@ Global
 		{D2BCD369-7FF7-4B30-B86D-785F78F77E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2BCD369-7FF7-4B30-B86D-785F78F77E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2BCD369-7FF7-4B30-B86D-785F78F77E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09561220-5A0E-40FB-A178-6C8665B1704F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09561220-5A0E-40FB-A178-6C8665B1704F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09561220-5A0E-40FB-A178-6C8665B1704F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09561220-5A0E-40FB-A178-6C8665B1704F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9120BB8C-9F0C-4BEA-BF0E-4BB7F16F68A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9120BB8C-9F0C-4BEA-BF0E-4BB7F16F68A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9120BB8C-9F0C-4BEA-BF0E-4BB7F16F68A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9120BB8C-9F0C-4BEA-BF0E-4BB7F16F68A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
